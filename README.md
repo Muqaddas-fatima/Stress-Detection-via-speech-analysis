@@ -11,6 +11,9 @@ https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-
 
 ![Stresso](https://github.com/Muqaddas-fatima/Stress-Detection-via-speech-analysis/blob/main/str4.jpeg)
 
+#Indication:
+![Stresso](https://github.com/Muqaddas-fatima/Stress-Detection-via-speech-analysis/blob/main/str5.png)
+
 #Activities:
 
 ![Stresso](https://github.com/Muqaddas-fatima/Stress-Detection-via-speech-analysis/blob/main/str3.jpeg)
