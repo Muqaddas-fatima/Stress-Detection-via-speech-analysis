@@ -7,5 +7,5 @@ https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-
 #Stresso Website:
 
 
-![alt text](http://url/to/https://github.com/Muqaddas-fatima/Stress-Detection-via-speech-analysis/blob/main/str4.jpeg)
+![Stresso](https://github.com/Muqaddas-fatima/Stress-Detection-via-speech-analysis/blob/main/str4.jpeg)
 https://mahnoorshoukat09.wixsite.com/stresso
